@@ -1,0 +1,127 @@
+# 📊 Sales Data Analysis
+
+A professional Data Analytics project built using **Python**, **Pandas**, and **Matplotlib** to analyze sales data and generate meaningful business insights through data visualization.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates how raw sales data can be transformed into valuable business insights using Python. It includes data analysis, visualization, and summary statistics that help understand sales performance and profitability.
+
+---
+
+## 🚀 Features
+
+- 📅 Monthly Sales Trend Analysis
+- 🛍️ Top 10 Products by Sales
+- 🥧 Sales Distribution by Category
+- 💰 Profit Analysis by City
+- 📈 Statistical Summary of Sales Data
+- 📊 Professional Data Visualizations
+
+---
+
+## 🗂️ Dataset
+
+The dataset contains the following columns:
+
+- Date
+- Product
+- Category
+- City
+- Sales
+- Profit
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Project Structure
+
+```
+Sales-Data-Analysis/
+│
+├── data/
+│   └── sales_data.csv
+│
+├── images/
+│   ├── monthly_sales_trend.png
+│   ├── top_10_products.png
+│   ├── sales_by_category.png
+│   └── profit_by_city.png
+│
+├── sales_analysis.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/aanand0809/Sales-Data-Analysis.git
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Project
+
+```bash
+python sales_analysis.py
+```
+
+---
+
+## 📊 Project Outputs
+
+The project generates the following visualizations:
+
+- Monthly Sales Trend
+- Top 10 Products by Sales
+- Sales by Category (Pie Chart)
+- Profit by City (Bar Chart)
+
+All generated graphs are automatically saved in the **images/** folder.
+
+---
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Insights
+- Python Programming
+- Git & GitHub
+
+---
+
+## 👨‍💻 Author
+
+**Anand Kumar**
+
+📧 Email: anandgupta875728@gmail.com
+
+🔗 GitHub: https://github.com/aanand0809
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
